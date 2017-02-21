@@ -1,3 +1,10 @@
 asdfasf
 
+<<<<<<< HEAD
 Pew pew
+=======
+zxcvzcv
+
+
+omnom
+>>>>>>> testBranch1
